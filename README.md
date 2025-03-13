@@ -24,7 +24,7 @@
 
 ## Projects
 
-Here you will find my Python projects:
+Here you will find my HTML/JS projects:
 
 [FigmaLand](https://github.com/Papirosa225/FigmaLand) - Site with adaptive layout
 
